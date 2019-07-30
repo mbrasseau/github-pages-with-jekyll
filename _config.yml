@@ -1,13 +1,13 @@
-title: No, really, I AM awesome!
+title: Jekyll Practice Page
 author: Mona Brasseaux
 email: mbrasseau@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Welcome to my GitHub page. Enjoy seeing me goof up since this is all new to me.
+  Welcome to my Jekyll Practice Page. Enjoy seeing me goof up since this is all new to me.
 
 # social links
 twitter_username: mbrasseau
 github_username:  mbrasseau
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false # set to false to remove excerpts on the homepage
 
 theme: minima
